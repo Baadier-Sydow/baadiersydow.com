@@ -5,6 +5,7 @@ image: img/ionic-framework.png
 author: Baadier Sydow
 date: 2017-11-17T07:03:47.149Z
 tags: ["Ionic"]
+draft: false
 ---
 
 ### **Foreword**
