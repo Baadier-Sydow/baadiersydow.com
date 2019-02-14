@@ -4,7 +4,7 @@ title: How to integrate Ionic Framework & WordPress REST API Tutorial
 image: img/ionic-framework-wordpress-tutorial.jpg
 author: Baadier Sydow
 date: 2018-01-31T07:03:47.149Z
-tags: ["Ionic", "WordPress", "Angular"]
+tags: ["Ionic", "Wordpress", "Angular"]
 ---
 
 ## Learn how to integrate Ionic Framework & WordPress in this tutorial
