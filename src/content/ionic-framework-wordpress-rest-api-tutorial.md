@@ -5,6 +5,7 @@ image: img/ionic-framework-wordpress-tutorial.jpg
 author: Baadier Sydow
 date: 2018-01-31T07:03:47.149Z
 tags: ["Ionic", "Wordpress", "Angular"]
+draft: false
 ---
 
 ## Learn how to integrate Ionic Framework & WordPress in this tutorial

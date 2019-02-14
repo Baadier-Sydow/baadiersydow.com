@@ -5,6 +5,7 @@ image: img/ionic-google-maps.jpg
 author: Baadier Sydow
 date: 2018-01-20T07:03:47.149Z
 tags: ["Ionic", "Angular"]
+draft: false
 ---
 
 ## Ionic Google Maps: An alternate approach
