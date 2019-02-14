@@ -5,6 +5,7 @@ image: img/ionic-devapp.jpeg
 author: Baadier Sydow
 date: 2017-11-17T07:03:47.149Z
 tags: ["Ionic"]
+draft: false
 ---
 
 #### Ionic DevApp Launched

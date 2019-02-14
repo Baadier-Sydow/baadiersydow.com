@@ -1,6 +1,3 @@
-- id: speeches
-  description: Some of the greatest words ever spoken.
-  image: img/speeches-cover.jpg
 - id: angular
   description: Angular tutorials, tips and tricks
   image: img/speeches-cover.jpg
