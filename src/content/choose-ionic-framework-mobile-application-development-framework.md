@@ -39,7 +39,9 @@ Being able to whip together a quick-and-dirty prototype in a week is useful. Thi
 
 You can mockup native plugins that will only run on devices to return mock data on the browser. This ensures that you can spend as much time as possible in the browser where you are the most efficient. Community member, [Josh Morony](https://twitter.com/joshuamorony), has a good overview of how to achieve this in the video below.
 
-https://www.youtube.com/watch?v=SENbR9g7ExQ
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SENbR9g7ExQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### First class cross-platform support
 
@@ -61,7 +63,7 @@ Ionic has made massive strides to make their components sustainable for the long
 
 You can view an introduction to Stencil.js in the video below:
 
-https://www.youtube.com/watch?v=UfD-k7aHkQE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UfD-k7aHkQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Holistic ecosystem for mobile application development
 

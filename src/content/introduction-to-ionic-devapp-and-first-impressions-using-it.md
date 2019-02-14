@@ -15,7 +15,7 @@ The application is free to download and can be found on both [iOS](https://itune
 
 This has come about as a split of their [Ionic View](https://ionicframework.com/docs/pro/view/) app which will remain focused on demoing your app to stakeholders. I use Ionic daily while working on [MobeeWash](http://mobeewash.com/) and I was keen to give it a try to see how it would improve my daily workflow.
 
-[embed]https://www.youtube.com/watch?v=tbTo60fAJcc [/embed]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tbTo60fAJcc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 My typical workflow is to develop and test as much as I can within the browser. The browser currently provides the most efficient development experience and feedback loop.
 
@@ -33,8 +33,6 @@ Ionic DevApp will listen in real time for Ionic builds running and will update w
 
 All it takes is the usual **ionic serve** for this to work.
 
-[embed]https://tenor.com/view/magic-magical-shia-labeouf-gif-6108430 [/embed]
-
 #### Some glitches
 
 I decided to give this a shot on both iOS and Android to see what the experience is like.
@@ -50,8 +48,6 @@ This did not work either.
 The test application would build and provide feedback via the CLI but zero feedback on either of the mobile devices I was using.
 
 I then restarted both devices and was greeted with a list of applications running on my dev machine.
-
-[embed]https://tenor.com/view/tastes-like-victory-victory-success-coffee-gif-4512955 [/embed]
 
 iOS was working without issue but Android gave me a white-screen-of-death. I was able to run the application that I was initially wanting to, so the older version of **ionic-angular** does not appear to be an issue. At the time of writing, I believe Ionic DevApp on Android is a slightly older version in comparison to iOS so this will hopefully be resolved in future.
 
@@ -80,5 +76,3 @@ Firebase Push Notifications are not supported but that’s not too surprising.
 Overall, barring the glitches in getting it set up, this has left me pretty excited for the future. The ability to have a body of test devices updating live while developing will result in better quality products. I believe this is a huge step forward for mobile application development.
 
 Hat tip to the Ionic team for another great release!
-
-[embed]https://tenor.com/view/afistful-of-dollars-clint-eastwood-man-with-no-name-hat-tip-gif-4268634 [/embed]
