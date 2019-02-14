@@ -29,17 +29,17 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Ghost',
-  description: 'The professional publishing platform',
+  title: 'Baadier Sydow',
+  description: 'Hi, I\'m Baadier Sydow and I spend most of my time developing hybrid mobile applications and working with Ionic, Angular, WordPress and Laravel. I\'m excited to see what Progressive Web Apps can do for the future of the web.',
   coverImage: 'img/blog-cover.jpg',
-  logo: 'img/ghost-logo.png',
+  logo: 'img/logo.png',
   lang: 'en',
-  siteUrl: 'https://gatsby-casper.netlify.com',
-  facebook: 'https://www.facebook.com/ghost',
-  twitter: 'https://twitter.com/tryghost',
+  siteUrl: 'https://baadiersydow.com',
+  facebook: '',
+  twitter: 'https://twitter.com/baadier',
   showSubscribe: true,
-  mailchimpAction: 'https://twitter.us19.list-manage.com/subscribe/post?u=a89b6987ac248c81b0b7f3a0f&amp;id=7d777b7d75',
-  mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',
+  mailchimpAction: 'https://baadiersydow.us17.list-manage.com/subscribe/post?u=9731f8263223622a58b4f6f08&amp;id=ee1da00c86',
+  mailchimpName: 'b_9731f8263223622a58b4f6f08_ee1da00c86',
 };
 
 export default config;
