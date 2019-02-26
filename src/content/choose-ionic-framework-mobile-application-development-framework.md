@@ -7,6 +7,7 @@ date: 2017-11-17T07:03:47.149Z
 tags: ["Ionic"]
 draft: false
 ---
+<a href="//pluralsight.pxf.io/c/1384273/431407/7490"><img src="//a.impactradius-go.com/display-ad/7490-431407" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="//pluralsight.pxf.io/i/1384273/431407/7490" style="position:absolute;visibility:hidden;" border="0" />
 
 ### **Foreword**
 
@@ -91,3 +92,5 @@ Ionic has provided both a [support forum](http://ionicworldwide.herokuapp.com/) 
 ### What are you waiting for?
 
 Ionic’s ease of development, agile workflow and cross-platform support make it an easy choice for your next mobile application. The wide range of plugins, their high-quality components and the cream of the web’s Javascript libraries will get you developing your next app at lightspeed.
+
+<a href="//pluralsight.pxf.io/c/1384273/431407/7490"><img src="//a.impactradius-go.com/display-ad/7490-431407" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="//pluralsight.pxf.io/i/1384273/431407/7490" style="position:absolute;visibility:hidden;" border="0" />

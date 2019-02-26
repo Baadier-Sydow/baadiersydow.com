@@ -7,6 +7,7 @@ date: 2018-01-26T07:03:47.149Z
 tags: ["Ionic", "Angular"]
 draft: false
 ---
+<a href="//pluralsight.pxf.io/c/1384273/431407/7490"><img src="//a.impactradius-go.com/display-ad/7490-431407" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="//pluralsight.pxf.io/i/1384273/431407/7490" style="position:absolute;visibility:hidden;" border="0" />
 
 ## Learn how to integrate Ionic Framework & Stripe in this tutorial
 
@@ -678,3 +679,5 @@ We've learnt how to do two different ways of integrating Stripe into an Ionic pr
 You still have a fair bit of work to do once you've completed the integration of the frontend of the application as you will need to bill the payment source from your server.
 
 The full completed repo can be viewed [here](https://github.com/Baadier-Sydow/ionic-stripe).
+
+<a href="//pluralsight.pxf.io/c/1384273/431407/7490"><img src="//a.impactradius-go.com/display-ad/7490-431407" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="//pluralsight.pxf.io/i/1384273/431407/7490" style="position:absolute;visibility:hidden;" border="0" />

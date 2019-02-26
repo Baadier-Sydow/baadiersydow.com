@@ -7,6 +7,7 @@ date: 2017-11-17T07:03:47.149Z
 tags: ["Ionic"]
 draft: false
 ---
+<a href="//pluralsight.pxf.io/c/1384273/431407/7490"><img src="//a.impactradius-go.com/display-ad/7490-431407" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="//pluralsight.pxf.io/i/1384273/431407/7490" style="position:absolute;visibility:hidden;" border="0" />
 
 #### Ionic DevApp Launched
 
@@ -77,3 +78,5 @@ Firebase Push Notifications are not supported but that’s not too surprising.
 Overall, barring the glitches in getting it set up, this has left me pretty excited for the future. The ability to have a body of test devices updating live while developing will result in better quality products. I believe this is a huge step forward for mobile application development.
 
 Hat tip to the Ionic team for another great release!
+
+<a href="//pluralsight.pxf.io/c/1384273/431407/7490"><img src="//a.impactradius-go.com/display-ad/7490-431407" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="//pluralsight.pxf.io/i/1384273/431407/7490" style="position:absolute;visibility:hidden;" border="0" />
