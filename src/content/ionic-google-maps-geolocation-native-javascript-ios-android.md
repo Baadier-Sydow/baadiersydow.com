@@ -7,6 +7,7 @@ date: 2018-01-20T07:03:47.149Z
 tags: ["Ionic", "Angular"]
 draft: false
 ---
+<a href="//pluralsight.pxf.io/c/1384273/431407/7490"><img src="//a.impactradius-go.com/display-ad/7490-431407" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="//pluralsight.pxf.io/i/1384273/431407/7490" style="position:absolute;visibility:hidden;" border="0" />
 
 ## Ionic Google Maps: An alternate approach
 
@@ -645,3 +646,5 @@ This approach to handling Ionic Google Maps is focused on having the flexibility
 Changing from an existing Google Maps implementation should not be too difficult as long as you don't leave out any functions when you refactor this alternative approach.
 
 The full completed repo can be viewed [here](https://github.com/Baadier-Sydow/ionic-google-maps).
+
+<a href="//pluralsight.pxf.io/c/1384273/431407/7490"><img src="//a.impactradius-go.com/display-ad/7490-431407" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="//pluralsight.pxf.io/i/1384273/431407/7490" style="position:absolute;visibility:hidden;" border="0" />

@@ -7,6 +7,7 @@ date: 2018-01-31T07:03:47.149Z
 tags: ["Ionic", "Wordpress", "Angular"]
 draft: false
 ---
+<a href="//pluralsight.pxf.io/c/1384273/431407/7490"><img src="//a.impactradius-go.com/display-ad/7490-431407" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="//pluralsight.pxf.io/i/1384273/431407/7490" style="position:absolute;visibility:hidden;" border="0" />
 
 ## Learn how to integrate Ionic Framework & WordPress in this tutorial
 
@@ -629,3 +630,5 @@ You should now be able to load the categories from your WordPress website via th
 We've learnt how to integrate WordPress into an Ionic project. The process is similar for retrieving and posting to other endpoints. Refer to the [API documentation](https://developer.wordpress.org/rest-api/reference/) to try the other endpoints and to begin making more complex integrations.
 
 The full completed repo can be viewed [here](https://github.com/Baadier-Sydow/ionic-wordpress-rest-api).
+
+<a href="//pluralsight.pxf.io/c/1384273/431407/7490"><img src="//a.impactradius-go.com/display-ad/7490-431407" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="//pluralsight.pxf.io/i/1384273/431407/7490" style="position:absolute;visibility:hidden;" border="0" />
